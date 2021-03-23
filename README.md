@@ -1,5 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebbaj&show_icons=true&theme=gotham&title_color=fff)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=react&title_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebbaj&show_icons=true&theme=gotham&title_color=fff) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=gotham&title_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
